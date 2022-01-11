@@ -2,9 +2,7 @@
 Made my first repo on github after attending hackclub
 
 
-Hello, Guys in this notebook I'll be explaining you step by step the makeing of my tic-tac-toe game which is made using python and tkinter. So Lets get started by importing some important modules. I recommend that you first play the game, know its all features and then continue reading this notebook. Some initial knowledge of tkinter is required!!!
-
-Hello, Guys in this notebook I'll be explaining you step by step the makeing of my tic-tac-toe game which is made using python and tkinter. So Lets get started by importing some important modules. I recommend that you first play the game, know its all features and then continue reading this notebook. Some initial knowledge of tkinter is required!!!
+Hello, Guys in this notebook I'll be explaining you step by step the makeing of my tic-tac-toe game which is made using python and tkinter. So Lets get started by importing some important modules. I recommend that you first play the game, know its all features and then continue reading this notebook. Some initial knowledge of tkinter is required!!
 
 
 ```bash
@@ -13,6 +11,11 @@ Hello, Guys in this notebook I'll be explaining you step by step the makeing of 
   from tkinter import *
 ```
 
+1. Tkinter - The tkinter package (“Tk interface”) is the standard Python interface to the Tcl/Tk GUI toolkit. Both Tk and tkinter are available on most Unix platforms, including macOS, as well as on Windows systems.
+
+2. Messagebox - The tkinter.messagebox module provides a template base class as well as a variety of convenience methods for commonly used configurations. The message boxes are modal and will return a subset of (True, False, OK, None, Yes, No) based on the user’s selection.
+
+3. "*" - Reffers to all the funtions in tinker library
 
 And lets See the code
 
